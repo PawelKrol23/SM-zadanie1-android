@@ -12,6 +12,7 @@
 
     <string name="correct_answer">Poprawna odpowiedź!</string>
     <string name="incorrect_answer">Nieprawidłowa odpowiedź!</string>
+    <string name="answer_was_shown">Odpowiedź była już wyświetlona!</string>
 
     <string name="result_text"><b>Koniec Quizu! Wynik:\n
         Poprawne odpowiedzi: %d\n
